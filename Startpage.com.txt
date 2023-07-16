@@ -1,0 +1,32 @@
+www.startpage.com##.css-8r34uk
+www.startpage.com##.css-xzfsr8
+www.startpage.com##.e163kaic2.css-1koz3uw.section-3
+www.startpage.com##.e163kaic2.css-1v07ta6.section-2
+www.startpage.com##.e163kaic2.css-cdna8u.section-4
+www.startpage.com##.e163kaic2.css-cdna8u.section-5
+www.startpage.com##.eu3pp1u0.css-4gdvn2
+www.startpage.com##div#below-the-fold.below-the-fold
+www.startpage.com##div#debug
+www.startpage.com##div#home-hide-promo-container.hide-promo-container.css-5u2jzg
+www.startpage.com##div#home-hide-promo-container.hide-promo-container.css-5u2jzg > div.hide-promo.css-5ifoqx
+www.startpage.com##div#home-hide-promo-container.hide-promo-container.css-5u2jzg > div.hide-promo.css-5ifoqx > div.css-r8ye9k
+www.startpage.com##div#home-hide-promo-container.hide-promo-container.css-5u2jzg > div.hide-promo.css-5ifoqx > div.css-r8ye9k > div.hide-promo-image-container.css-1sx5uuz
+www.startpage.com##div#home-hide-promo-container.hide-promo-container.css-5u2jzg > div.hide-promo.css-5ifoqx > div.css-r8ye9k > div.hide-promo-image-container.css-1sx5uuz > div.hide-promo-image.css-1kb7qdt
+www.startpage.com##div#home-hide-promo-container.hide-promo-container.css-5u2jzg > div.hide-promo.css-5ifoqx > div.css-r8ye9k > span.hide-promo-text
+www.startpage.com##div#home-top-banner.banner-container.css-wc6t06
+www.startpage.com##div#root > div.Layout > div.home-wrapper > div.footer-container.css-13o7eu2
+www.startpage.com##div#root > div.Layout > div.home-wrapper > section.hero.css-1k3siat > div.home-hero-down-arrow.css-s4usdh
+www.startpage.com##div#root > div.Layout > div.home-wrapper > section.hero.css-1k3siat > div.nav-container.css-1srhmfm > div.nav.css-5ej25d > a.css-8r34uk[href^="https\:\/\/www\.startmail\.com\/en\/startpage\/"]
+www.startpage.com##div#root > div.Layout > div.home-wrapper > section.hero.css-1k3siat > div.nav-container.css-1srhmfm > div.nav.css-5ej25d > div.css-1pducxn
+www.startpage.com##div#root > div.Layout > div.home-wrapper > section.hero.css-1k3siat > div.search-home.css-2ycp6t > div.search-home-inner.css-1jlet83 > div.hero-widget-containter.css-1nwwdhg
+www.startpage.com##div#s3downbar-ibmbeeacmbeeaebmfjpmnlgkhoejinha
+www.startpage.com##html.dark.cpkqknh.idc0_347 > div.ad.widget
+www.startpage.com##html.dark.uuvopmjuxp.idc0_347 > div.ad.widget
+www.startpage.com#@##home-top-banner
+www.startpage.com#@#.banner-top
+||www.startpage.com/sp/cdn/images/*g$image
+||www.startpage.com/sp/cdn/images/LNT-homepage-dark.jpg$image
+||www.startpage.com/sp/cdn/images/home/black/down-arrow.svg$image
+||www.startpage.com/sp/cdn/images/home/black/man-in-laptop.svg$image
+||www.startpage.com/sp/cdn/images/swoosh/desktop-top-swoosh-black.svg$image
+||www.startpage.com/sp/cdn/images/swoosh/desktop-top-swoosh-black.svg$image
