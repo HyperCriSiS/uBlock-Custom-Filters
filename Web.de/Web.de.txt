@@ -1,0 +1,10 @@
+||mailderef.web.de/dl.web.de/uim/live/generic_piba.html$subdocument
+||mailderef.web.de/dl.web.de/uim/live/generic_piba.html$subdocument
+lightmailer-bap.web.de##li.inbox-ad-panel.message-list__item:nth-of-type(3)
+lightmailer-bap.web.de##li.inbox-ad-panel.message-list__item:nth-of-type(9)
+lightmailer-bap.web.de##li.inbox-ad-panel.message-list__item:nth-of-type(14)
+lightmailer-bs.web.de##.inbox-ad-header
+lightmailer-bs.web.de##.inbox-ad-panel__link.message-list__link
+lightmailer-bs.web.de##.is-unread.inbox-ad-panel.message-list__item
+lightmailer-bs.web.de##li.inbox-ad-panel.message-list__item:nth-of-type(3)
+lightmailer-bs.web.de##li.inbox-ad-panel.message-list__item:nth-of-type(14)
