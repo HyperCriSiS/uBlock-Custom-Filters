@@ -1,4 +1,3 @@
-! https://www.startpage.com
 ||www.startpage.com/sp/cdn/images/swoosh/desktop-top-swoosh-black.svg$image
 ||www.startpage.com/sp/cdn/images/swoosh/desktop-top-swoosh-black.svg$image
 ||www.startpage.com/sp/cdn/images/home/black/man-in-laptop.svg$image
@@ -39,3 +38,6 @@ www.startpage.com##.footer__container
 ||www.startpage.com/sp/cdn/images/home/default/privacy-please-badge.svg$xhr,domain=behind-the-scene
 ||www.startpage.com/sp/cdn/images/social-icons/*$xhr,domain=behind-the-scene
 ||www.startpage.com/sp/cdn/style/flags/*$xhr,domain=behind-the-scene
+
+startpage.com##.css-mhw2u3.footer-above-the-fold
+startpage.com##.css-g0a122
