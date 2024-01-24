@@ -3,6 +3,13 @@
 ! Remove Logo
 www.startpage.com/sp/cdn/images/startpage-logo-gradient-dark.svg$image
 
+! Remove unnecessary images
+www.startpage.com/sp/cdn/images/swoosh/desktop-top-swoosh-black.svg$image
+www.startpage.com/sp/cdn/images/home/black/man-in-laptop.svg$image
+www.startpage.com/sp/cdn/images/home/black/down-arrow.svg$image
+www.startpage.com/sp/cdn/images/LNT-homepage-dark.jpg$image
+www.startpage.com/sp/cdn/images/lnt-arrow-down-dark.svg$image
+
 ! Remove Top Banner
 www.startpage.com#@##home-top-banner
 www.startpage.com##[class^="css-"].banner-top
@@ -13,17 +20,20 @@ www.startpage.com##.footer__container
 ! Remove Feedback button
 www.startpage.com##.css-rxf9j8.feedback-widget .feedback-button-container > [class*="feedback-button"]
 
+
 ! Remove misc clutter
 www.startpage.com##.e163kaic2.css-1v07ta6[class^="section-"]
 www.startpage.com##[class^="css-"][class$="8fyp6b"] > div > svg
 www.startpage.com##[class*="-promo"]
+www.startpage.com##.below-the-fold
+www.startpage.com##[class*="footer-container"]
+www.startpage.com##[class*="home-hero-down-arrow"]
+www.startpage.com##[class*="blog-menu"]
+www.startpage.com##.bottom-lnt-tg-cta.home-cta-container
+www.startpage.com##li
+www.startpage.com##:xpath(/html/body/div[1]/div/div/section/div[2]/h3)
 
-! Remove unnecessary images
-www.startpage.com/sp/cdn/images/swoosh/desktop-top-swoosh-black.svg$image
-www.startpage.com/sp/cdn/images/home/black/man-in-laptop.svg$image
-www.startpage.com/sp/cdn/images/home/black/down-arrow.svg$image
-www.startpage.com/sp/cdn/images/LNT-homepage-dark.jpg$image
-www.startpage.com/sp/cdn/images/lnt-arrow-down-dark.svg$image
+
 
 ! Speedup
 ||https://www.startpage.com/sp/cdn/images/*
@@ -32,15 +42,7 @@ www.startpage.com/sp/cdn/images/lnt-arrow-down-dark.svg$image
 ||www.startpage.com/sp/cdn/images/home/black/privacy-please-badge-de.svg$xhr,domain=behind-the-scene
 ||www.startpage.com/sp/cdn/images/home/default/privacy-please-badge.svg$xhr,domain=behind-the-scene
 ||www.startpage.com/sp/cdn/images/social-icons/*$xhr,domain=behind-the-scene
-||www.startpage.com/sp/cdn/style/flags/*$xhr,domain=behind-the-scene
 ||www.startpage.com/sp/cdn/images/swoosh/desktop-bottom-swoosh-black.svg$xhr,domain=behind-the-scene
+||www.startpage.com/sp/cdn/images/startpage-logo-gradient-dark.svg$xhr,domain=behind-the-scene
 ||www.startpage.com/sp/cdn/bundles/0.4.11/c5c8713b5/lib/BlockDisplay.js$script,domain=www.startpage.com
-
-! Testing - I assume the IDs will change
-www.startpage.com##.css-xzfsr8
-www.startpage.com##.css-8r34uk
-www.startpage.com##.css-1fgjn8h
-www.startpage.com##.css-15dk5wo
-www.startpage.com##.css-182a6px
-www.startpage.com##.css-g0a122
-www.startpage.com##.css-px79ct
+||www.startpage.com/sp/cdn/style/flags/*$xhr,domain=behind-the-scene
