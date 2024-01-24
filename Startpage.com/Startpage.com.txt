@@ -1,43 +1,46 @@
-||www.startpage.com/sp/cdn/images/swoosh/desktop-top-swoosh-black.svg$image
-||www.startpage.com/sp/cdn/images/swoosh/desktop-top-swoosh-black.svg$image
-||www.startpage.com/sp/cdn/images/home/black/man-in-laptop.svg$image
-||www.startpage.com/sp/cdn/images/home/black/down-arrow.svg$image
-||www.startpage.com/sp/cdn/images/LNT-homepage-dark.jpg$image
+! https://www.startpage.com
 
-www.startpage.com##.e163kaic2.css-1v07ta6.section-2
-www.startpage.com##.e163kaic2.css-1koz3uw.section-3
-www.startpage.com##.e163kaic2.css-cdna8u.section-4
-www.startpage.com##.e163kaic2.css-cdna8u.section-5
-www.startpage.com##.eu3pp1u0.css-4gdvn2
-www.startpage.com##div#root > div.Layout > div.home-wrapper > div.footer-container.css-13o7eu2
-www.startpage.com##div#debug
-www.startpage.com##div#s3downbar-ibmbeeacmbeeaebmfjpmnlgkhoejinha
+! Remove Logo
+www.startpage.com/sp/cdn/images/startpage-logo-gradient-dark.svg$image
+
+! Remove Top Banner
 www.startpage.com#@##home-top-banner
-www.startpage.com#@#.banner-top
-www.startpage.com##html.dark.uuvopmjuxp.idc0_347 > div.ad.widget
-www.startpage.com##div#root > div.Layout > div.home-wrapper > section.hero.css-1k3siat > div.search-home.css-2ycp6t > div.search-home-inner.css-1jlet83 > div.hero-widget-containter.css-1nwwdhg
-www.startpage.com##div#below-the-fold.below-the-fold
-www.startpage.com##html.dark.cpkqknh.idc0_347 > div.ad.widget
-www.startpage.com##div#home-top-banner.banner-container.css-wc6t06
-www.startpage.com##div#root > div.Layout > div.home-wrapper > section.hero.css-1k3siat > div.nav-container.css-1srhmfm > div.nav.css-5ej25d > div.css-1pducxn
-www.startpage.com##div#root > div.Layout > div.home-wrapper > section.hero.css-1k3siat > div.nav-container.css-1srhmfm > div.nav.css-5ej25d > a.css-8r34uk[href^="https\:\/\/www\.startmail\.com\/en\/startpage\/"]
-www.startpage.com##div#home-hide-promo-container.hide-promo-container.css-5u2jzg
-www.startpage.com##div#home-hide-promo-container.hide-promo-container.css-5u2jzg > div.hide-promo.css-5ifoqx
-www.startpage.com##div#home-hide-promo-container.hide-promo-container.css-5u2jzg > div.hide-promo.css-5ifoqx > div.css-r8ye9k
-www.startpage.com##div#home-hide-promo-container.hide-promo-container.css-5u2jzg > div.hide-promo.css-5ifoqx > div.css-r8ye9k > div.hide-promo-image-container.css-1sx5uuz
-www.startpage.com##div#home-hide-promo-container.hide-promo-container.css-5u2jzg > div.hide-promo.css-5ifoqx > div.css-r8ye9k > div.hide-promo-image-container.css-1sx5uuz > div.hide-promo-image.css-1kb7qdt
-www.startpage.com##div#home-hide-promo-container.hide-promo-container.css-5u2jzg > div.hide-promo.css-5ifoqx > div.css-r8ye9k > span.hide-promo-text
-www.startpage.com##div#root > div.Layout > div.home-wrapper > section.hero.css-1k3siat > div.home-hero-down-arrow.css-s4usdh
-www.startpage.com##.css-xzfsr8
-www.startpage.com##.css-8r34uk
+www.startpage.com##[class^="css-"].banner-top
+
+! Remove Footer
 www.startpage.com##.footer__container
 
+! Remove Feedback button
+www.startpage.com##.css-rxf9j8.feedback-widget .feedback-button-container > [class*="feedback-button"]
+
+! Remove misc clutter
+www.startpage.com##.e163kaic2.css-1v07ta6[class^="section-"]
+www.startpage.com##[class^="css-"][class$="8fyp6b"] > div > svg
+www.startpage.com##[class*="-promo"]
+
+! Remove unnecessary images
+www.startpage.com/sp/cdn/images/swoosh/desktop-top-swoosh-black.svg$image
+www.startpage.com/sp/cdn/images/home/black/man-in-laptop.svg$image
+www.startpage.com/sp/cdn/images/home/black/down-arrow.svg$image
+www.startpage.com/sp/cdn/images/LNT-homepage-dark.jpg$image
+www.startpage.com/sp/cdn/images/lnt-arrow-down-dark.svg$image
+
+! Speedup
+||https://www.startpage.com/sp/cdn/images/*
 ||www.startpage.com/sp/cdn/images/feedback/*$xhr,domain=behind-the-scene
 ||www.startpage.com/sp/cdn/images/home/black/privacy-please-badge.svg$xhr,domain=behind-the-scene
 ||www.startpage.com/sp/cdn/images/home/black/privacy-please-badge-de.svg$xhr,domain=behind-the-scene
 ||www.startpage.com/sp/cdn/images/home/default/privacy-please-badge.svg$xhr,domain=behind-the-scene
 ||www.startpage.com/sp/cdn/images/social-icons/*$xhr,domain=behind-the-scene
 ||www.startpage.com/sp/cdn/style/flags/*$xhr,domain=behind-the-scene
+||www.startpage.com/sp/cdn/images/swoosh/desktop-bottom-swoosh-black.svg$xhr,domain=behind-the-scene
+||www.startpage.com/sp/cdn/bundles/0.4.11/c5c8713b5/lib/BlockDisplay.js$script,domain=www.startpage.com
 
-startpage.com##.css-mhw2u3.footer-above-the-fold
-startpage.com##.css-g0a122
+! Testing - I assume the IDs will change
+www.startpage.com##.css-xzfsr8
+www.startpage.com##.css-8r34uk
+www.startpage.com##.css-1fgjn8h
+www.startpage.com##.css-15dk5wo
+www.startpage.com##.css-182a6px
+www.startpage.com##.css-g0a122
+www.startpage.com##.css-px79ct
