@@ -20,7 +20,6 @@ www.startpage.com##.footer__container
 ! Remove Feedback button
 www.startpage.com##.css-rxf9j8.feedback-widget .feedback-button-container > [class*="feedback-button"]
 
-
 ! Remove misc clutter
 www.startpage.com##.e163kaic2.css-1v07ta6[class^="section-"]
 www.startpage.com##[class^="css-"][class$="8fyp6b"] > div > svg
@@ -32,8 +31,6 @@ www.startpage.com##[class*="blog-menu"]
 www.startpage.com##.bottom-lnt-tg-cta.home-cta-container
 www.startpage.com##li
 www.startpage.com##:xpath(/html/body/div[1]/div/div/section/div[2]/h3)
-
-
 
 ! Speedup
 ||https://www.startpage.com/sp/cdn/images/*
